@@ -55,8 +55,10 @@
     }}"
   />
   <meta name="referrer" content="no-referrer-when-downgrade" />
-  <!--
+
+<!--
   <meta property="fb:app_id" content="{{ site.fb_appid }}" />
+-->
   <meta
     property="og:site_name"
     content="{% if page.title %}{{ page.title | escape }} | {{
@@ -69,7 +71,7 @@
       site.author.blog_name
     }}{% else %}{{ site.title | escape }}{% endif %}"
   />
--->
+
   {% if page.location %}
   <meta property="og:type" content="article" />
   <!--
