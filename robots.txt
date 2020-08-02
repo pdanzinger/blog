@@ -1,0 +1,4 @@
+Sitemap: https://danzinger.wien/sitemap.xml
+
+User-agent: *
+Allow: /
