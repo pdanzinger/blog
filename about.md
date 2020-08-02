@@ -6,13 +6,13 @@ layout: page
 #comments: false
 ---
 
-Hey there, I'm Philipp. I am an undergraduate computer science student at TU Wien (colloquially and inofficially known as the Technical University of Vienna).
+Hey there, I'm Philipp. I am an undergraduate computer science student at TU Wien (inofficially known as the Technical University of Vienna).
 
 I am interested in a lot of things, including parallelism and optimisation, security, and (quantum) complexity theory. Sometimes I manually solve control problems for large dynamical systems (i.e. playing factorio).
 
 ##### contact
 
-- \<my first name\> \<at\> <the domain of this blog>
+- E-Mail: <span style="display: none;">maybe.thistricks@bots.com</span> \<my first name\> \<at\> \<the domain of this blog\>
 - github.com/{{ site.author.github }}
 
 
