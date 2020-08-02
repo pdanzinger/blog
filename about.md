@@ -10,10 +10,10 @@ Hey there, I'm Philipp. I am an undergraduate computer science student at TU Wie
 
 I am interested in a lot of things, including parallelism and optimisation, security, and (quantum) complexity theory. Sometimes I manually solve control problems for large dynamical systems (i.e. playing factorio).
 
-##### contact
+##### Contact
 
 - E-Mail: <span style="display: none;">maybe.thistricks@bots.com</span> \<my first name\> \<at\> \<the domain of this blog\>
-- github.com/{{ site.author.github }}
+- [github.com/{{ site.author.github }}](https://github.com/{{ site.author.github }})
 
 
 ##### Obligatory PGP key ([4096 bit RSA](https://xkcd.com/538/)):
