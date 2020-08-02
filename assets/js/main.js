@@ -42,3 +42,8 @@
       : area.classList.remove("blurry");
   });
 })();
+
+
+window.onload = () => {
+  Gifffer();
+};
